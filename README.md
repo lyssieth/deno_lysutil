@@ -11,3 +11,7 @@ import * as util from "https://deno.land/x/deno_lysutil@v0.0.1/mod.ts"; // This 
 ### fs
 
 - `getExt(path)`: Gets the extension and filename of the last item of a path.
+
+### url
+
+- `filename(link)`: Gets the filename from a given link.
